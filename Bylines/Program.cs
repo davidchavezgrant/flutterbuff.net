@@ -10,7 +10,7 @@ app.MapGet("/", () => "Hello World!");
 app.MapGet("/person",
            () => new Person
            {
-               Id = 0, FirstName = "David", LastName = "Grant"
+               Id = 0, FirstName = "David"
            });
 
 app.Run();
