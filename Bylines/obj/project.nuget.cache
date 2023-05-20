@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3RpLH4eZnwT1jeHeYWa3yT305ubhjApcB3DssQpGV7wWZnU/m43Vv5cYa67sYFp+XGJlLUrgWe+vcSLimJPdpA==",
+  "success": true,
+  "projectFilePath": "/Users/davidgrant/Code/protobuf/Bylines/Bylines.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidgrant/.nuget/packages/google.protobuf/3.23.1/google.protobuf.3.23.1.nupkg.sha512",
+    "/Users/davidgrant/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/davidgrant/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/davidgrant/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/davidgrant/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
